@@ -39,6 +39,8 @@ Delete the pod na-nginx-pod1
 ```
 kubectl delete -f aff-na-pod1.yaml
 ```
+
+### Task 2: Node Affinity 
 Create another pod with nodeAffinity type of requiredDuringScheduling using content given below
 ```
 vi aff-na-pod2.yaml
