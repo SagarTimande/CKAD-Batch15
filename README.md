@@ -17,5 +17,5 @@
 * [Lab-2: Node Labelling](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Node%20Labelling.md)
 * [Lab-3: Node Affiity and Node Anti Affinity](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Node%20Affinity%20and%20AntiAffinity.md)
 * [Lab-4: Pod Affinity and Pod Anti Affinity](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Pod%20Affinity%20and%20AntiAffinity.md)
-* [Reference Links](https://github.com/Mehar-Nafis/CKAD/blob/main/Reference%20Links.md)
+* [Reference Links](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Reference%20Links.md)
 * [CKAD Exercises](https://github.com/Mehar-Nafis/CKAD/blob/main/CKAD%20Exercises.md)
