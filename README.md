@@ -18,5 +18,7 @@
 * [Lab-3: Node Affiity and Node Anti Affinity](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Node%20Affinity%20and%20AntiAffinity.md)
 * [Lab-4: Pod Affinity and Pod Anti Affinity](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Pod%20Affinity%20and%20AntiAffinity.md)
 * [Lab-5: Jobs and Cronjobs](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Jobs%20and%20Cronjobs.md)
+* [Lab-6: Multi-containers](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Multi-containers.md)
+* [Lab-7: Deployment Strategy](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Deployment%20Strategy.md)
 * [Reference Links](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Reference%20Links.md)
 * [CKAD Exercises](https://github.com/Mehar-Nafis/CKAD/blob/main/CKAD%20Exercises.md)
