@@ -95,19 +95,19 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   labels:
-    app: dep1
-  name: dep1
+    app: dep2
+  name: dep2
 spec:
   replicas: 2
   selector:
     matchLabels:
-      app: dep1
+      app: dep2
   strategy:
     type: Recreate
   template:
     metadata:
       labels:
-        app: dep1
+        app: dep2
     spec:
       containers:
       - image: nginx
