@@ -142,58 +142,6 @@ Endpoints are back
 
 ### Task 3: Startup probe
 ```
-vi startup.yaml
-```
-```yaml
-apiVersion: v1
-kind: Pod
-metadata:
-  labels:
-    app: lns
-  name: startup-pod
-spec:
-  containers:
-  - name: startup
-    image: busybox
-    args:
-    - /bin/sh
-    - -c
-    - echo "Startup completed"; sleep 6000
-    startupProbe:
-      exec:
-        command:
-        - cat
-        - /startup
-      initialDelaySeconds: 10
-      periodSeconds: 5
-```
-```
-kubectl apply -f startup.yaml
-```
-```
-kubectl get po
-```
-The startup pobe fails
-```
-kubectl describe po startup-pod 
-```
-```
-kubectl exec -it pods/startup-pod -- sh
-```
-```
-touch startup
-```
-```
-exit
-```
-There is no change in the status of the pod.
-```
-kubectl describe po startup-pod 
-```
-```
-kubectl get po
-```
-```
 vi startup1.yaml
 ```
 ```
