@@ -22,6 +22,7 @@
 * [Lab-7: Multi-containers](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Multi-containers.md)
 * [Lab-8: Deployment Strategy](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Deployment%20Strategy.md)
 * [Lab-9: Probes](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Probes.md)
-* [Lab-10: Metrics Server](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Metric%20Server.md)
+* [Lab-10: ConfigMap and Secrets](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/ConfigMap%20and%20Secret.md)
+* [Lab-11: Metrics Server](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Metric%20Server.md)
 * [Reference Links](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Reference%20Links.md)
 * [CKAD Exercises](https://github.com/Mehar-Nafis/CKAD/blob/main/CKAD%20Exercises.md)
