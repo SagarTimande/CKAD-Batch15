@@ -24,5 +24,10 @@
 * [Lab-9: Probes](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Probes.md)
 * [Lab-10: ConfigMap and Secrets](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/ConfigMap%20and%20Secret.md)
 * [Lab-11: Metrics Server](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Metric%20Server.md)
+* [Lab-12: Resource Quota](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Resource%20Quotas.md)
+* [Lab-13: Security Context](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Security%20Context.md)
+* [Lab-14: Newtork Policy](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Network%20Policy.md)
+* [Lab-15:]
+* [Lab-16:]
 * [Reference Links](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Reference%20Links.md)
 * [CKAD Exercises](https://github.com/Mehar-Nafis/CKAD/blob/main/CKAD%20Exercises.md)
