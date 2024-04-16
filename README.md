@@ -27,7 +27,7 @@
 * [Lab-12: Resource Quota](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Resource%20Quotas.md)
 * [Lab-13: Security Context](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Security%20Context.md)
 * [Lab-14: Newtork Policy](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Network%20Policy.md)
-* [Lab-15:]
-* [Lab-16:]
+* [Lab-15: RBAC](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/RBAC.md)
+* [Lab-16: Helm](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Helm.md)
 * [Reference Links](https://github.com/Mehar-Nafis/CKAD-Batch15/blob/main/Reference%20Links.md)
 * [CKAD Exercises](https://github.com/Mehar-Nafis/CKAD/blob/main/CKAD%20Exercises.md)
