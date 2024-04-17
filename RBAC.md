@@ -342,14 +342,10 @@ kubectl get svc -n kubernetes-dashboard -o wide
 kubectl get nodes -o wide
 ```
 Change the IP and NodePort accordingly:
-
-IP : External IP of your master node
-
-https:// (your worker-node-1):(NodePort)
-
-Click on the Advanced button
-
-Click Accept the Risk and Continue
+* IP : External IP of your master node
+* https:// (your worker-node-1):(NodePort)
+* Click on the Advanced button
+* Click Accept the Risk and Continue
 
 Create a service account by running the following command, and then input the code in the master node:
 ```
